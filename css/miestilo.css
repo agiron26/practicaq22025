@@ -1,0 +1,162 @@
+h1{
+    color: brown;
+}
+
+.playwrite-hu {
+  font-family: "Playwrite HU", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.montserrat{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.fondo_azul{
+    background-color: #106eea;
+}
+
+#top_bar{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+i{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#menu{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#menu a{
+    color: #222222;
+}
+
+#hero{
+    background-image:url(https://bootstrapmade.com/content/demo/BizLand/assets/img/hero-bg.jpg);
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+
+.color_azul{
+    color: #106eea;
+}
+
+#servicios{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.padding_topbottom{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.sombra{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.sombras2{
+    box-shadow: 0px -25px 20px -20px rgba(0, 0, 0, 0.45);
+}
+
+.grande{
+    font-size: 50px;
+}
+
+.paddingbottomicono{
+    padding-bottom: 30px;
+    padding-left: 10px;
+}
+
+.mediano{
+    font-size: 30px;
+}
+
+.fondogris{
+    background-color: rgb(242, 252, 255);
+}
+
+.img{
+    padding-top: 30px;
+}
+
+.letracolornegro{
+    color: black;
+}
+
+#about_us{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.text_center{
+    text-align: center;
+}
+
+.text_left{
+    text-align: left;
+}
+
+.fondo_seccion{
+    background-color: #f5f9ff;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.grosor{
+    font-weight: bold;
+}
+
+.sep_secc{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+.padding_arribayabajo2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.padding_arribayabajo3{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.separacion_seccion2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.ali_izquierda{
+    text-align: left;
+}
+
+.pad_bajo{
+    padding-bottom: 50px;
+}
+.padding_copy{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
